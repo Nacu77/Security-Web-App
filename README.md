@@ -1,2 +1,2 @@
 # Security-Web-App
-Web App with Spring MVC and Spring Security
+A simple web app where the resources are displayed based on the role of the user.
